@@ -84,7 +84,7 @@ cd ..
 Replace `YOUR_IMAGE_ID_HERE` with your actual Google Drive file ID.
 
 From a Google Drive share link like:
-`https://drive.google.com/file/d/1ABC23xyz4567890/view?usp=sharing`
+`https://drive.google.com/drive/folders/10w_P-Qd7AMRvhwC7-Z5vjxoOOB_cO9tN?usp=drive_link`
 Use `1ABC23xyz4567890` as the ID in the image URL below:
 
 ```md
